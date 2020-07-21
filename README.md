@@ -1,7 +1,7 @@
 # YuYuwan-DesktopPet
 瑜瑜丸桌面宠物（v1.0）
-  
-! [封面] (https://github.com/tp1415926535/YuYuwan-DesktopPet/blob/ef62de9ceec0c7eb932b07affe34e4076f98cd7d/%E7%91%9C%E7%91%9C%E4%B8%B8%E5%B0%81%E9%9D%A2.jpg)
+
+![封面](https://github.com/tp1415926535/YuYuwan-DesktopPet/blob/ef62de9ceec0c7eb932b07affe34e4076f98cd7d/%E7%91%9C%E7%91%9C%E4%B8%B8%E5%B0%81%E9%9D%A2.jpg)
   
 **介绍**  
 瑜瑜丸为AKB48成员张乔瑜的粉丝团形象  
