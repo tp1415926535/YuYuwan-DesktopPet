@@ -1,7 +1,7 @@
 # YuYuwan-DesktopPet
 ![封面](https://github.com/tp1415926535/YuYuwan-DesktopPet/blob/ef62de9ceec0c7eb932b07affe34e4076f98cd7d/%E7%91%9C%E7%91%9C%E4%B8%B8%E5%B0%81%E9%9D%A2.jpg)
   
-下载链接：[安装程序](https://github.com/tp1415926535/YuYuwan-DesktopPet/raw/master/%E7%91%9C%E7%91%9C%E4%B8%B8%E6%A1%8C%E9%9D%A2%E5%AE%A0%E7%89%A9.msi)，安装后打开文件夹下的“瑜瑜丸.exe”即可运行。
+下载链接：[安装程序](https://github.com/tp1415926535/YuYuwan-DesktopPet/raw/master/%E7%91%9C%E7%91%9C%E4%B8%B8%E5%AE%89%E8%A3%85%E5%8C%85.exe)，安装后打开文件夹下的“瑜瑜丸.exe”即可运行。
   
   
 **瑜瑜丸桌面宠物（v1.0）**  
