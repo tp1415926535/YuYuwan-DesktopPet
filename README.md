@@ -1,7 +1,7 @@
 # YuYuwan-DesktopPet
-瑜瑜丸桌面宠物（v1.0）
-
 ![封面](https://github.com/tp1415926535/YuYuwan-DesktopPet/blob/ef62de9ceec0c7eb932b07affe34e4076f98cd7d/%E7%91%9C%E7%91%9C%E4%B8%B8%E5%B0%81%E9%9D%A2.jpg)
+  
+瑜瑜丸桌面宠物（v1.0）  
   
 **介绍**  
 瑜瑜丸为AKB48成员张乔瑜的粉丝团形象  
@@ -23,5 +23,14 @@
   
 **适用**  
 windows64位系统  
+  
+**实现原理**  
+1.根据初始形象建模  
+2.制作关键帧动画  
+3.渲染出图合成GIF  
+4.建立WPF项目  
+5.设定动画逻辑和事件  
+6.生成安装包  
+  
   
 版权所有，仅供娱乐。
