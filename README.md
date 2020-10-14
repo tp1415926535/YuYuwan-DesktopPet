@@ -4,10 +4,12 @@
 下载链接：安装包【[Github](https://github.com/tp1415926535/YuYuwan-DesktopPet/raw/master/%E7%91%9C%E7%91%9C%E4%B8%B8%E5%AE%89%E8%A3%85%E5%8C%85.exe)/ [腾讯微云](https://share.weiyun.com/9B34LsON)/ [蓝奏云](https://wws.lanzous.com/iXFaPg2501e)】，安装后打开文件夹下的“瑜瑜丸.exe”即可运行。
   
   
-**瑜瑜丸桌面宠物[v1.0]**  
     
 **介绍**  
 -   
+
+**瑜瑜丸桌面宠物[v1.0]**   
+   
 **适用**   
 　　Windows64位系统  
   
